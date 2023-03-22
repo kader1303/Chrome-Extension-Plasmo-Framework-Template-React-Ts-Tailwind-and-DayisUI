@@ -13,7 +13,8 @@ pnpm i
 pnpm dev
 
 ```
-To edit manifest settings you should do it in package.jason file under `"manifest"` section.
+To edit manifest settings you should do it in package.json file under `"manifest"` section.
+Example:
 
 ```bash
 {
